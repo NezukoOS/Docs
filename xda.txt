@@ -51,7 +51,7 @@ Statusbar customisations
 
 Icon customisations
 
-Hardwar key customisations
+Hardware keys customisations
 
 Power & Volume button customisations
 
