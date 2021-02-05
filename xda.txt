@@ -1,0 +1,91 @@
+[CENTER]
+
+[img]https://i.imgur.com/2ybyQz3.png[/img]
+
+[SIZE="5"][b][color=#ff0083]NezukoOS for OnePlus 5T[/color][/b][/SIZE]
+
+
+[SIZE="4"][b][color=#ff0083]What is this?[/color][/b][/SIZE]
+
+[SIZE="3"]NezukoOS is a fresh new ROM aiming to provide you a customisable and stable experience!
+
+
+Unlike others, we actually care about what our users think and are built upon decisions made by our future and current users!
+
+[/SIZE]
+
+
+[SIZE="4"][b][color=#ff0083]Whats working?[/color][/b][/SIZE]
+
+[SIZE="3"] Everything! The build is very stable![/SIZE]
+
+
+[SIZE="4"][b][color=#ff0083]Known issues[/color][/b][/SIZE]
+
+[SIZE="3"]Nothing.[/SIZE]
+
+
+[SIZE="5"][b][color=#ff0083]Some features[/color][/b][/SIZE] 
+
+[SIZE="3"]  
+
+All Pixel Goodies!
+
+Free unlimited google photos storage because we enforce Redfin FP.
+
+Theming of every kind
+
+Power Menu customisations
+
+Battery saving features
+
+Fingerprint customisations
+
+Lockscreen customisations
+
+Clock customisations
+
+Quick Settings customisations
+
+Statusbar customisations
+
+Icon customisations
+
+Hardwar key customisations
+
+Power & Volume button customisations
+
+And much more![/SIZE]
+
+
+
+[SIZE="3"][B]GApps included.[/B][/SIZE]
+
+[SIZE="6"][url="https://sourceforge.net/projects/nezukoos/files/dumpling/"][b][color=#ff0083][u]Download here![/u][/color][/b][/url][/SIZE]
+
+
+
+[SIZE="4"][b][color=#ff0083]Stay tuned[/color][/b][/SIZE]
+
+[SIZE="3"][url="https://t.me/NezukoSupport"][b][color=#ff0083][u]ROM Support Group[/u][/color][/b][/url][/SIZE]
+
+[SIZE="3"][url="https://t.me/orangefoxop5t"][b][color=#ff0083][u]Device Support Group[/u][/color][/b][/url][/SIZE]
+
+[/CENTER]
+
+
+[LEFT][SIZE="3"][list]
+
+[*][b]Android version:[/b] 11
+
+[*][b]Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/maitreya29.11095385/]Maitreya Patni[/url]
+
+[*][b]Security patch level:[/b] Feburary 2021
+
+[*][b]Source code:[/b] [url=https://github.com/NezukoOS]https://github.com/NezukoOS[/url]
+
+[*][b]NezukoOS Developer:[/b] [url=https://forum.xda-developers.com/m/maitreya29.11095385/]Maitreya Patni[/url]
+
+[/list][/SIZE][/LEFT]
+
+
