@@ -113,7 +113,7 @@ And much more![/SIZE]
 [*][b]Android version:[/b] 11
 
 
-[*][b]Kernel:[/b] [url=]source[url]
+[*][b]Kernel:[/b] [url=]source[/url]
 
 
 [*][b]Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/maitreya29.11095385/]Maitreya Patni[/url]
