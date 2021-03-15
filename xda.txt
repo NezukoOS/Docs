@@ -9,10 +9,10 @@ Unlike others, we actually care about what our users think and are built upon de
 [/SIZE]
 
 [SIZE="4"][b][color=#ff0083]Whats working?[/color][/b][/SIZE]
-[SIZE="3"] Everything![/SIZE]
+[SIZE="3"]Everything![/SIZE]
 
 [SIZE="4"][b][color=#ff0083]Known issues[/color][/b][/SIZE]
-[SIZE="3"]Nothing, you tell me.[/SIZE]
+[SIZE="3"]Nothing.[/SIZE]
 
 [SIZE="5"][b][color=#ff0083]Some features[/color][/b][/SIZE] 
 [SIZE="3"]  
