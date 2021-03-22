@@ -1,4 +1,4 @@
-# To become a maintainer of Nezuko OS:
+# To become an official maintainer for NezukoOS:
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
@@ -8,7 +8,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 3 - You must have a daily-drivable unofficial build.
 
-4 - You must have your device sources available publicly with proper authorship for each commit. Exception being for if you use a prebuilt kernel.
+4 - Your Kernel Trees must be open source, we make exceptions for Vendor and Device trees in certain special cases.
 
 5 - Though an Enforcing build isn't necessary, the build must not stay permissive for extended period of time.
 
