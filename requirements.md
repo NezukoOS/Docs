@@ -7,12 +7,10 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * Tablet devices capable of in-call audio/speaker audio MUST support in-call/speaker audio.
 * Devices SHOULD support any additional audio configuration inherent to their device (eg. echo cancellation, extra mics, etc).
 * All devices MUST support any other audio output supported by their stock OS (eg. headphone jack, USB-C, BT).
-* All devices with FM radio capabilities in their stock OS SHOULD support FM.
 
 ## RIL
 * All devices with RIL supported in their stock OS MUST support RIL for phone calls & data.
 * All devices with RIL supported in their stock OS MUST support emergency calling with a SIM inserted (112/911).
-* All devices with RIL supported in their stock OS SHOULD support emergency calling without a SIM inserted (112/911).
 * Data-only devices (defined as devices that have a RIL but do not support telephony stack due to hardware/firmware restrictions) are EXEMPTED from phone & emergency dialing requirements.
 
 ## Wi-Fi
