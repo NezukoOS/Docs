@@ -66,7 +66,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All commits MUST have proper authorship to the author of the commits.
 
 ## Licenses
-* You used kernel MUST be open source.
+* Your used kernel MUST be open source.
 
 ## Stability
 * If your build is deemed unstable by the team you may not be allowed to maintain officially.
