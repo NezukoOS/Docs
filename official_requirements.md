@@ -10,6 +10,8 @@ Before you apply to add your device into our list of official devices, you shoul
 
 4 - Your Kernel Trees must be open source, we make exceptions for Vendor and Device trees in certain special cases.
 
+5. You must be SELinux enforcing.
+
 6 - You must meet all requirements as mentioned [here](requirements.md).
 
 Link to Maintainership form [here](https://forms.gle/U5VQiT2yNy94g6Li9)
